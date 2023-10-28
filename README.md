@@ -33,10 +33,10 @@ To set up the required database and tables for the School Management System, fol
     git clone https://github.com/AllTechz/school-management-system.git
 
 ### 2. **Navigate to the Project Directory**: Move to the project directory using the `cd` command:
-cd school-management-system
+    cd school-management-system
 
 ### 3. **Install Required Python Packages**: Install the necessary Python packages, primarily the `mysql-connector-python`. You can do this by running:
-pip install mysql-connector-python
+    pip install mysql-connector-python
 
 ### 4. **Database Setup**: Execute the following SQL commands to create the required database and tables:
 
@@ -125,7 +125,7 @@ Before you can run the School Management System, you need to configure the MySQL
 
 
 ### 6. **Run the Application**: Finally, run the Python script to launch the School Management System:
-python school_management.py
+    python school_management.py
 
 With the database and tables in place, the application is ready to help you streamline your school's administrative tasks and academic management.
 
