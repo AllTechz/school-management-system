@@ -108,6 +108,7 @@ Before you can run the School Management System, you need to configure the MySQL
         user="your-username",
         password="your-password",
         database="school_management"
+    )
     ```
 
     Make sure to replace `"your-mysql-server"`, `"your-username"`, and `"your-password"` with your specific MySQL server details.
